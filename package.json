@@ -46,7 +46,7 @@
     "babel-register": "^6.18.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "~1.18.2",
-    "bookshelf": "^0.10.0",
+    "bookshelf": "^0.14.0",
     "bookshelf-json-columns": "^2.1.0",
     "compression": "^1.6.2",
     "config": "^1.21.0",
